@@ -1,0 +1,106 @@
+{
+  "status": "ok",
+  "totalResults": 10,
+  "articles": [
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Dog health: Don't buy a bulldog until breed is reshaped, vets plead",
+      "description": "A study finds the English bulldog has double the health risks of other dogs.",
+      "url": "http://www.bbc.co.uk/news/science-environment-61799718",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3EE4/production/_125400161_bulldoggettyimages-934316346.jpg",
+      "publishedAt": "2022-06-15T12:37:22.8989616Z",
+      "content": "By Helen BriggsScience correspondent\r\nThe flat faces bred into bulldogs can cause a \"lifetime of suffering\" and vets are urging people not to buy one.\r\nThe bulldog has twice the health risks of other… [+4293 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "James Patterson: US author sorry for saying white writers face racism",
+      "description": "The best-selling US author apologises for saying older white writers face a form of racism.",
+      "url": "http://www.bbc.co.uk/news/entertainment-arts-61808108",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/113D3/production/_125411607_gettyimages-671636322-2_2.jpg",
+      "publishedAt": "2022-06-15T11:22:26.2115433Z",
+      "content": "Author James Patterson has apologised for saying older white writers face \"just another form of racism\", which makes it harder for them to find work.\r\nThe best-selling US writer made his comments to … [+2754 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Nupur Sharma controversy: Prayagraj demolition breaks a family's dream",
+      "description": "The demolition of Muslim activist Afreen Fatima's house in India has left her family and neighbours in fear.",
+      "url": "http://www.bbc.co.uk/news/world-asia-india-61793828",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/8085/production/_125410923_976a.jpg",
+      "publishedAt": "2022-06-15T11:22:22.9935942Z",
+      "content": "By Zoya MateenBBC News, Delhi\r\nWhat is home?\r\nFor Somaiya Fatima, 19, it's a pale yellow house, tucked in the winding lanes of Prayagraj (formerly Allahabad), a city in the northern Indian state of U… [+7923 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Russia's economy in for a bumpy ride as sanctions bite",
+      "description": "Four months after Russia invaded Ukraine, the economy still works but it lacks some of its parts.",
+      "url": "http://www.bbc.co.uk/news/world-europe-61796067",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/147EE/production/_125405938_avtovaz.jpg",
+      "publishedAt": "2022-06-15T11:22:16.6028464Z",
+      "content": "By Steve RosenbergRussia Editor, Moscow\r\n\"It's the most affordable new vehicle in Russia. They're calling it the anti-sanctions car!\"\r\nThat was Russian state TV putting a positive spin on the new, no… [+4779 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Rwanda asylum flight: Where does legal setback leave ministers?",
+      "description": "The government seems determined to press ahead with its plans despite last-minute legal interventions.",
+      "url": "http://www.bbc.co.uk/news/uk-politics-61805819",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/16F8A/production/_125409049_976_hi076176555.jpg",
+      "publishedAt": "2022-06-15T11:07:21.3521608Z",
+      "content": "By Chris MasonPolitical editor, BBC News\r\nFor more than 20 years, successive governments have wrestled, often with limited success, with what to do about people who reach the northern coast of France… [+5495 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Rebel Wilson outing sparks Australia media reckoning",
+      "description": "A newspaper's defence to outing the actor has thrown up questions around ethical journalism.",
+      "url": "http://www.bbc.co.uk/news/world-australia-61807511",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/13E48/production/_125408418_gettyimages-1357805729.jpg",
+      "publishedAt": "2022-06-15T06:07:17.8140264Z",
+      "content": "By Frances MaoBBC News\r\nWhen Australian actress and comedian Rebel Wilson revealed on Instagram she had found love with a woman, people celebrated her decision to come out - they believed - on her ow… [+6606 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Ukraine war latest: Humanitarian corridor to open in encircled Severodonetsk",
+      "description": "The corridor from the key city of Severodonetsk will only allow civilians to reach Russian-backed areas.",
+      "url": "http://www.bbc.co.uk/news/live/world-europe-61792068",
+      "urlToImage": "https://m.files.bbci.co.uk/modules/bbc-morph-news-waf-page-meta/5.2.0/bbc_news_logo.png",
+      "publishedAt": "2022-06-15T05:37:26.2660843Z",
+      "content": "Karim Khan, centre, visits the heavily-shelled Saltivka neighbourhood in KharkivImage caption: Karim Khan, centre, visits the heavily-shelled Saltivka neighbourhood in Kharkiv\r\nKarim Khan, the Britis… [+1519 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Tom Rice: South Carolina ousts Republican who voted to impeach Trump",
+      "description": "Tom Rice had acknowledged he could be politically doomed, but maintained he was following his conscience.",
+      "url": "http://www.bbc.co.uk/news/world-us-canada-61807281",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/11A58/production/_125408227_gettyimages-1239296175.jpg",
+      "publishedAt": "2022-06-15T04:07:26.4852921Z",
+      "content": "A Republican congressman has lost his bid to cling on to his seat, after a furious backlash to his vote to impeach former US President Donald Trump.\r\nTom Rice, a five-term South Carolina incumbent, w… [+2699 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Babushka Z: The woman who became a Russian propaganda icon",
+      "description": "A video of an elderly woman brandishing a Soviet flag went viral - but what really happened?",
+      "url": "http://www.bbc.co.uk/news/world-europe-61757667",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/12BBA/production/_125403767_babushkainkharkiv10.jpg",
+      "publishedAt": "2022-06-15T03:22:20.5792101Z",
+      "content": "By Sofia Bettiza &amp; Svyatoslav KhomenkoBBC News\r\nAn elderly Ukrainian woman brandishing a red Soviet flag has become the unlikely face of Kremlin propaganda after a video of her encounter with Ukr… [+5472 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Brittney Griner: Russia extends WNBA star's detention again",
+      "description": "The US state department says Brittney Griner should not be held \"for a single day longer\".",
+      "url": "http://www.bbc.co.uk/news/world-us-canada-61803959",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1653A/production/_125405419_bgindex.jpg",
+      "publishedAt": "2022-06-14T21:07:24.1885716Z",
+      "content": "By Holly HonderichBBC News, Washington\r\nUS basketball star Brittney Griner's detention in Russia has been extended again, Russian state media report.\r\nThe Women's National Basketball Association (WNB… [+2638 chars]"
+    }
+  ]
+}
